@@ -1,0 +1,7 @@
+minecraft:stone_sword,1,0
+minecraft:bow,1,0
+minecraft:arrow,32,0
+minecraft:bread,8,0
+minecraft:torch,16,0
+minecraft:fishing_rod,1,0
+antiqueatlas:emptyAntiqueAtlas,1,0
